@@ -16,4 +16,4 @@
 
 num1 = 23
 
-print( num1 != 34)
+print( num1 == 34)
